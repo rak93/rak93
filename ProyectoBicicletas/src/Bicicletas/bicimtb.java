@@ -1,5 +1,5 @@
 package Bicicletas;
-
+//añado comentario
 public class bicimtb {
 	private String marca;
 	private String modelo;
@@ -21,6 +21,11 @@ public class bicimtb {
 		this.velocidad = 0;
 		this.averiada = false;
 	}
+	/**
+	 * cambio
+	 * @param marca
+	 * @param modelo
+	 */
 
 	public bicimtb(String marca, String modelo) {
 		super();
